@@ -1,1 +1,1 @@
-For the details of results check the report.pdf
+For the details check the report.pdf
